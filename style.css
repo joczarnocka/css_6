@@ -1,0 +1,13 @@
+p{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+p.blue_par{
+    background-color: blue;
+}
+
+p.tr_par{
+    opacity: 0.3;
+}
